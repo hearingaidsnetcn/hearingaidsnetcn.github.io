@@ -1,6 +1,9 @@
-﻿featuredImage: https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
+﻿category: blog
+image: >-
+  https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
+optimized_image: >-
+  https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
 
-# Zhongkai “ original enterprise ” Jinghao Medical Technology Co., Ltd. became the first hearing aids company listed on the New Third Board in China
 
 ## ****DO THE BEST HEARING AIDS IN CHINA****
 
