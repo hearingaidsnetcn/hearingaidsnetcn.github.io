@@ -1,15 +1,15 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
+name: Will 
+display_name: Thiago Rose
 position: Chief Editor
-bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+bio: Hearing aids professional.
+github_username: hearingaidsnetcn
+facebook_username: jinghaohearingaids
+twitter_username: chrisjinghao
+instagram_username: chrisjinghao
+linkedin_username: chrispeng-jh
+medium_username: hearingaidchina
 ---
 
